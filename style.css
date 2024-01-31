@@ -19,3 +19,15 @@ footer{
   margin-top: auto;
   margin-bottom: 10px;
 }
+
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  text-align: right;
+}
